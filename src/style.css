@@ -358,7 +358,7 @@ image {
 .end{
     height: 380px;
     width: 100%;
-    background-image: url(/src/assets/Images/background.png);/* Chemin de l'image */
+    background-image: url(./assets/Images/background.png);/* Chemin de l'image */
     background-position: center;
     background-size: cover;/* Ajuste l'image pour couvrir tout le conteneur */ 
     background-position: center; /* Centre l'image dans le conteneur */
